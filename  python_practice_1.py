@@ -1,0 +1,1 @@
+print (Tatarinova Yana, SE-2025”)
